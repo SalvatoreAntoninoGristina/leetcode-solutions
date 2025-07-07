@@ -21,16 +21,18 @@ Tutte le soluzioni sono scritte in **Python 3** e seguono un'organizzazione modu
 ## 🗂️ Struttura del progetto
 
 leetcode-solutions/
-├── README.md # Questo file
+├── README.md                  # Questo file
 ├── .gitignore
-├── problems/ # Cartella con tutte le soluzioni
-│ ├── two-sum/
-│ │ ├── solution.py # Codice Python
-│ │ ├── README.md # Descrizione del problema
-│ │ └── notes.md # Note personali, alternative, complessità
-│ └── ...
-├── utils/ # Strutture dati comuni (es. ListNode)
-   └── listnode.py
+├── problems/                  # Cartella con tutte le soluzioni
+│   ├── two-sum/
+│   │   ├── solution.py        # Codice Python
+│   │   ├── README.md          # Descrizione del problema
+│   │   └── notes.md           # Note personali, alternative, complessità
+│   └── ...                    # Altri problemi
+├── utils/                     # Strutture dati comuni (es. ListNode)
+│   └── listnode.py
+└── scripts/                   # Script extra o di supporto (opzionale)
+    └── ...
 
 ---
 
