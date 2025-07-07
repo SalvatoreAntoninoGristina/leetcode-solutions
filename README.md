@@ -24,13 +24,14 @@ leetcode-solutions/
 ├── README.md                  # Questo file
 ├── .gitignore
 ├── problems/                  # Cartella con tutte le soluzioni
-│   ├── two-sum/
+│   ├── 2.add-two-numbers/
 │   │   ├── solution.py        # Codice Python
 │   │   ├── README.md          # Descrizione del problema
 │   │   └── notes.md           # Note personali, alternative, complessità
 │   └── ...                    # Altri problemi
 ├── utils/                     # Strutture dati comuni (es. ListNode)
 │   └── listnode.py
+│   └── ... 
 └── scripts/                   # Script extra o di supporto (opzionale)
     └── ...
 ```
