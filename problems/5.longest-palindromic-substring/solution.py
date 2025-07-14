@@ -1,6 +1,8 @@
 from typing import Tuple
 
-
+# l'idea dietro e' utilizzare lo stack
+# per identificare la simmetria attorno ad un center
+# il metodo naif era O(n^3), funzionava ma risultava troppo lento
 class Solution:
 
     def longestPalindrome(self, s: str) -> str:
